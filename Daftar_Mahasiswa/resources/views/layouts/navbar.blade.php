@@ -17,13 +17,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" href="jalur_pendaftaran">Jalur Pendaftaran</a>
+                    <a class="nav-link active" href="home">Jalur Pendaftaran</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="informasi_pendaftaran">Informasi Pendaftaran</a>
+                    <a class="nav-link" href="informasi">Informasi Pendaftaran</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="biaya_kuliah">Biaya Kuliah</a>
+                    <a class="nav-link" href="biaya">Biaya Kuliah</a>
                 </li>
             </ul>
             <form class="d-flex">
