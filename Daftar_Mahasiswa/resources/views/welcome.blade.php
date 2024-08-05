@@ -9,8 +9,10 @@
 </head>
 <body>
     <header>
-        <h1>Selamat Datang di Pendaftaran Mahasiswa</h1>
-        <p>Mari bergabung dengan universitas terbaik.</p>
+        <h1>Selamat Datang di Pendaftaran Mahasiswa Universitas Multi Data Palembang</h1>
+        <p>Gabunglah dengan Universitas Multi Data Palembang, tempat di mana masa depan cerah dimulai.
+            Kami menawarkan program pendidikan berkualitas tinggi dengan fasilitas terbaik untuk mendukung impian dan karier Anda.
+            Daftarkan diri Anda sekarang dan mulailah perjalanan menuju kesuksesan bersama kami!</p>
         <a href="/register" class="btn">Daftar Sekarang</a>
     </header>
 </body>

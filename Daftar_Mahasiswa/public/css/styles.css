@@ -4,17 +4,21 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+     background-image: url('/images/bg_home.jpg');
+    background-size: cover; /* Agar gambar menutupi seluruh header */
+    background-position: center; /* Untuk menempatkan gambar di tengah */
+    background-repeat: no-repeat; /* Untuk tidak mengulang gambar */
+    height: 100vh;
 }
 
 header {
-    background-color: #333;
     color: #fff;
-    text-align: center;
+    text-align: start;
     padding: 50px 0;
+    margin: 32px;
 }
 
 header h1 {
-    margin: 0;
     font-size: 2.5em;
 }
 
@@ -24,12 +28,14 @@ header p {
 }
 
 header .btn {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #e9b138;
+    color: black;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
-    font-size: 1em;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
 }
 
 .container {
