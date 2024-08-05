@@ -33,6 +33,10 @@
                 <label for="address">Alamat</label>
                 <input type="text" id="address" name="address" required>
             </div>
+            <div class="form-group">
+                <label for="asal">Asal Sekolah</label>
+                <input type="text" id="asal" name="asal" required>
+            </div>
             <button type="submit" class="btn">Daftar</button>
         </form>
     </div>
